@@ -7,6 +7,6 @@ entries:
     description: A Helm chart for nginx image with Kubernetes 
     name: nginx
     urls:
-    - https://github.com/hardikhp4199/helm-nginx-demo.git/obs-helm-nginx-demo.tar.gz
+    - https://github.com/hardikhp4199/helm-nginx-demo/raw/main/obs-helm-nginx-demo.tar.gz
     version: 0.1.0
 generated: "2023-03-01T20:13:54.3723006+05:30"
